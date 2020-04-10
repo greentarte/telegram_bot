@@ -4,5 +4,6 @@
 3. 채널 만들기(봇 API 채널 불가능)
 4. 응답하기
   Old Handler API is deprecated로 다시 방법 찾기
+  api document에 대한 공부가 필요함(syntax, method 등등)
 5. 파일 읽어와서 보내기
 6. 실제 적용 방안(주요 멘트 구성)
