@@ -5,6 +5,8 @@
 4. 응답하기 
   - Old Handler API is deprecated로 다시 방법 찾기 => MessageHandler(Filters.text, get_message)
   - api document에 대한 공부가 필요함(syntax, method 등등)
+  - 참고링크 https://bakyeono.net/post/2015-08-24-using-telegram-bot-api.html
+  
 5. 파일 읽어와서 보내기
 6. 실제 적용 방안(주요 멘트 구성)
 
